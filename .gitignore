@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+/frontend/node_modules/
+/backend/node_modules/
+/payment-mock/node_modules/
+/backend/data/*.db
